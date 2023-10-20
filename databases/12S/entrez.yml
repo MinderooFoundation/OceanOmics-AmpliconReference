@@ -1,0 +1,17 @@
+name: entrez
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - ca-certificates=2022.4.26=h06a4308_0
+  - entrez-direct=16.2=he881be0_1
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libidn2=2.3.2=h7f8727e_0
+  - libunistring=0.9.10=h27cfd23_0
+  - openssl=1.1.1p=h5eee18b_0
+  - wget=1.21.3=h0b77cf5_0
+  - zlib=1.2.12=h7f8727e_2
